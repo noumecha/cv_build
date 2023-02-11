@@ -1,0 +1,215 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Noumecha Yofang Ivan Spaker",
+    "label": "Devellopeur",
+    "image": "",
+    "email": "noumechaivan@wb-universe.net",
+    "phone": "(+237) 696 879 475",
+    "url": "https://github.com/noumecha",
+    "age": "23",
+    "birthday": "2000-07-20",
+    "summary": "Jeune Ingénieur de travaux informatiques passionné par la technologies, les sciences et l'entrepreneuriat jeune. Originaire de la région de l'Ouest dans les hauts plateaux du Cameroun. Je suis un jeune determiné à donner le meilleur de lui-meme dans tout ce qu'il entreperend , n'accepte pas facilement les critiques mais toujours prêt à apprendre tant que cela est bénéfique!",
+    "location": {
+      "address": "Yaounde Centre Ebang",
+      "postalCode": "",
+      "city": "Yaounde",
+      "countryCode": "+237",
+      "region": "Centre"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "noumecha",
+        "url": "https://github.com/noumecha"
+      },
+      {
+        "network": "Gmail",
+        "username": "noumecha ivan",
+        "url": ""
+      },
+      {
+        "network": "linkedin",
+        "username": "Noumecha Spaker",
+        "url": "https://www.linkedin.com/in/noumecha-spaker-021067223/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wb-universe",
+      "location": "Yaounde, Cameroun",
+      "description": "Entreprise de service informatique",
+      "position": "Devellopeur",
+      "url": "https://www.wb-universe.net",
+      "startDate": "2021-08-20",
+      "endDate": "en poste",
+      "summary": "Habeuk est une entreprise de service informatique spécialiser dans la technologie du web ",
+      "highlights": [
+        "Creation de sites professionnels avec drupal 9",
+        "Creation de themes avec drupal 9",
+        "Creation de modules avec drupal 9",
+        "Creation d'application Web Druapl 9 & Javascript"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institut supérieur les Armandins",
+      "url": "https://ispa-armandins.com/",
+      "area": "Genie Informatique",
+      "studyType": "Licence Professionnel",
+      "startDate": "2021-08-27",
+      "endDate": "2022-08-07",
+      "score": "4.0",
+      "courses": [
+        "Genie logiciel",
+        "Devellopement d'application Mobile",
+        "Devellopement d'application Web",
+        "Reseau Informatiques"
+      ]
+    },
+    {
+      "institution": "Institut supérieur les Armandins",
+      "url": "https://ispa-armandins.com/",
+      "area": "Genie Informatique",
+      "studyType": "Brevet de Technicien Supérieur",
+      "startDate": "2020-08-27",
+      "endDate": "2021-06-27",
+      "score": "4.0",
+      "courses": [
+        "Genie logiciel",
+        "Devellopement d'application Mobile",
+        "Devellopement d'application Web",
+        "Reseau Informatiques"
+      ]
+    },
+    {
+      "institution": "Centre de formation Professionnel Metronet Service",
+      "url": "",
+      "area": "Webmaster",
+      "studyType": "DQP(Diplome de Qualitfication Professionnel)",
+      "startDate": "2018-10-15",
+      "endDate": "2019-11-19",
+      "score": "4.0",
+      "courses": [
+        "Devellopement & Administration de site web",
+        "Infographie",
+        "Reseau Informatiques"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Brevet de Tecniciens Supérieur(BTS)",
+      "date": "2021-06-24",
+      "awarder": "MINESUP",
+      "summary": "Genie Logiciel"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Devellopement Web ",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "Drupal",
+        "PHP",
+        "CSS",
+        "REACT-JS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Devellopement Mobile",
+      "level": "Junior",
+      "keywords": [
+        "React-Native",
+        "Angular",
+        "Flutter",
+        "IONIC"
+      ]
+    },
+    {
+      "name": "Programmation",
+      "level": "Junior",
+      "keywords": [
+        "JAVA",
+        "C",
+        "C#",
+        "C++",
+        "BASH"
+      ]
+    },
+    {
+      "name": "Reaseaux Informatique",
+      "level": "Expert",
+      "keywords": [
+        "Installation ",
+        "Configuation terminaux"
+      ]
+    },
+    {
+      "name": "Infographie & UX design",
+      "level": "Intermediaire",
+      "keywords": [
+        "PHOTOSHOP",
+        "ILLUSTRATOR",
+        "ADOBE XD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": "Intermediaire"
+    }
+  ],
+  "interests": [
+    {
+      "name": "POESIE",
+      "keywords": [
+        "Slam",
+        "Ecriture",
+        "Rap"
+      ]
+    },
+    {
+      "name": "SPORT",
+      "keywords": [
+        "Basketball",
+        "Course",
+        "Football"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Application Mobile de don de sang",
+      "description": "Une application mobile pour trouver facilement des donneurs afin d'aider à la penurie de poches de sang",
+      "highlights": [
+        "Présenté comme projet de soutenance"
+      ],
+      "keywords": [
+        "application mobile",
+        "santé",
+        "don de sang",
+        "Javascript"
+      ],
+      "startDate": "2022-05-20",
+      "endDate": "en cours...",
+      "url": "...",
+      "roles": [
+        "Concepteur",
+        "Designer"
+      ],
+      "entity": "Globul",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
